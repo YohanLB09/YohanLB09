@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/YohanLB09/configure-ad)
   - [Azure VM Network Analysis: Prerequisites and Installation (Part 1)](https://github.com/YohanLB09/azure-vm-network-analysis)
-  - [Azure VM Network Analysis: ICMP Traffic Analysis (Part 2)](https://github.com/YohanLB09/azure-vm-network-analysis)
+  - [Azure VM Network Analysis: ICMP Traffic Analysis (Part 2)](https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis)
 
 <h2>🤳Connect with me:</h2>
 
