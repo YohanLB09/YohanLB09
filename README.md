@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/YohanLB09/configure-ad)
   - [Azure VM Network Analysis: Prerequisites and Installation (Part 1)](https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs)
   - [Azure VM Network Analysis: ICMP Traffic Analysis (Part 2)](https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis)
+  - [Azure VM Network Analysis: ICMP Traffic Analysis with NSG (Part 3)](https://github.com/YohanLB09/azure-vm-network-analysis-part3-ICMP-traffic-analysis-NSG)
 
 <h2>🤳Connect with me:</h2>
 
