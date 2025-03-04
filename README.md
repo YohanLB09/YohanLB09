@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yohan, an <a href="https://www.linkedin.com/in/yohan-le-bourhis/">Cybersecurity Enthusiast</a>☺</h1>
+<h1>Hi, I'm Yohan, a <a href="https://www.linkedin.com/in/yohan-le-bourhis/">Cybersecurity Enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
