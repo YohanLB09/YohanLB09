@@ -11,7 +11,7 @@
   - [Azure VM Network Analysis: Prerequisites and Installation (Part 1)](https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs)
   - [Azure VM Network Analysis: ICMP Traffic Analysis (Part 2)](https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis)
   - [Azure VM Network Analysis: ICMP Traffic Analysis with NSGs (Part 3)](https://github.com/YohanLB09/azure-vm-network-analysis-part3-ICMP-traffic-analysis-NSGs)
-  - [Azure VM Network Analysis: Network Protocols Traffic Analysis (Part 4)](https://github.com/YohanLB09/azure-vm-network-analysis-part4-network-protocols)
+  - [Azure VM Network Analysis: Network Protocols (Part 4)](https://github.com/YohanLB09/azure-vm-network-analysis-part4-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
