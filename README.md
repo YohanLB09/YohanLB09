@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yohan, an <a href="https://www.linkedin.com/in/yohan-le-bourhis/">IT professional</a>☺</h1>
+<h1>Hi, I'm Yohan, an <a href="https://www.linkedin.com/in/yohan-le-bourhis/">IT professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
