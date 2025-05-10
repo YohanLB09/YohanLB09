@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory: Infrastucture Setup](https://github.com/YohanLB09/Active-Directory-Infrastucture-Setup/blob/main/README.md)
   - [Active Directory: Deployment and Configuration](https://github.com/YohanLB09/Active-Directory-Deployment-and-Configuration/blob/main/README.md)
+  - [Active Directory: User Provisioning, Group Policy, and Account Management](https://github.com/YohanLB09/Active-Directory-User-Provisioning-Group-Policy-and-Account-Management/blob/main/README.md)
   - [Azure VM Network Analysis: Prerequisites and Installation (Part 1)](https://github.com/YohanLB09/azure-vm-network-analysis-part1-prereqs)
   - [Azure VM Network Analysis: ICMP Traffic Analysis (Part 2)](https://github.com/YohanLB09/azure-vm-network-analysis-part2-ICMP-traffic-analysis)
   - [Azure VM Network Analysis: ICMP Traffic Analysis with NSGs (Part 3)](https://github.com/YohanLB09/azure-vm-network-analysis-part3-ICMP-traffic-analysis-NSGs)
