@@ -18,7 +18,7 @@
  <h2>Cybersecurity Projects:</h2>
  
 - <b>LetsDefend - SOC Analyst Learning Path</b>
-  - [Phishing Email Analysis]()
+  - [Phishing Email Analysis: Suspicious Task Scheduler]()
 
 
 <h2>🤳Connect with me:</h2>
