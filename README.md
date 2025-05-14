@@ -15,8 +15,8 @@
   - [Azure VM Network Analysis: ICMP Traffic Analysis with NSGs (Part 3)](https://github.com/YohanLB09/azure-vm-network-analysis-part3-ICMP-traffic-analysis-NSGs)
   - [Azure VM Network Analysis: Network Protocols (Part 4)](https://github.com/YohanLB09/azure-vm-network-analysis-part4-network-protocols)
 
- <h2 Cybersecurity Projects:</h2>
-   
+ <h2>Cybersecurity Projects:</h2>
+ 
 - <b>LetsDefend - SOC Analyst Learning Path</b>
   - [Phishing Email Analysis]()
 
