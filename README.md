@@ -19,7 +19,7 @@
  <h2>Cybersecurity Projects:</h2>
  
 - <b>LetsDefend - SOC Analyst Learning Path</b>
-  - [MSHTML Challenge](https://github.com/YohanLB09/MSHTML-Investigation-Project)
+  - [Zero-Day Vulnerability Investigation – MSHTML Challenge](https://github.com/YohanLB09/MSHTML-Investigation-Project)
   
 
 
